@@ -1,0 +1,6 @@
+[submodule "dc101_module1"]
+	path = dc101_module1
+	url = https://github.com/withebear/dc101_module1.git
+[submodule "dc101_module2"]
+	path = dc101_module2
+	url = https://github.com/withebear/dc101_module2.git
